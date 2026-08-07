@@ -17,5 +17,5 @@ Distribuído sob a licença GNU GPL v2. Veja o arquivo LICENSE para detalhes.
 
 ## ⚠️ Aviso:
 - Baseado em Ubuntu 24.04 LTS — direitos reservados à Canonical
-- Modificações próprias © 2026 [SEU NOME]
+- Modificações próprias © 2026 [Kennedy Caio (K.C.)]
 - Este projeto é comunitário e não tem vínculo oficial
