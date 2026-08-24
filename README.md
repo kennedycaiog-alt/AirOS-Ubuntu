@@ -1,4 +1,4 @@
-# AirOS
+# AirOS em-breve Linux Station
 Um Sistema Operacional Baseado em Ubuntu focado na eficiência
 
 ## ✅ O que mudou:
